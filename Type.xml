@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<account>
+  <account_type>
+    <code>1</code>
+    <type>Trading</type>
+  </account_type>
+  <account_type>
+    <code>2</code>
+    <type>RRSP</type>
+  </account_type>
+  <account_type>
+    <code>3</code>
+    <type>RESP</type>
+  </account_type>
+  <account_type>
+    <code>4</code>
+    <type>Fund</type>
+  </account_type>
+  <currency>
+    <ccode>C</ccode>
+    <ctype>CAD</ctype>
+  </currency>
+  <currency>
+    <ccode>CD</ccode>
+    <ctype>CAD</ctype>
+  </currency>
+  <currency>
+    <ccode>U</ccode>
+    <ctype>UAD</ctype>
+  </currency>
+  <currency>
+    <ccode>US</ccode>
+    <ctype>USD</ctype>
+  </currency>
+</account>

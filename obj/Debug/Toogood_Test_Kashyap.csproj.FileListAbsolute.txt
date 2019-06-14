@@ -1,0 +1,10 @@
+C:\Users\Api\source\repos\Toogood_Test_Kashyap\Toogood_Test_Kashyap\bin\Debug\Toogood_Test_Kashyap.exe.config
+C:\Users\Api\source\repos\Toogood_Test_Kashyap\Toogood_Test_Kashyap\bin\Debug\Toogood_Test_Kashyap.exe
+C:\Users\Api\source\repos\Toogood_Test_Kashyap\Toogood_Test_Kashyap\bin\Debug\Toogood_Test_Kashyap.pdb
+C:\Users\Api\source\repos\Toogood_Test_Kashyap\Toogood_Test_Kashyap\obj\Debug\Toogood_Test_Kashyap.csprojAssemblyReference.cache
+C:\Users\Api\source\repos\Toogood_Test_Kashyap\Toogood_Test_Kashyap\obj\Debug\Toogood_Test_Kashyap.Form1.resources
+C:\Users\Api\source\repos\Toogood_Test_Kashyap\Toogood_Test_Kashyap\obj\Debug\Toogood_Test_Kashyap.Properties.Resources.resources
+C:\Users\Api\source\repos\Toogood_Test_Kashyap\Toogood_Test_Kashyap\obj\Debug\Toogood_Test_Kashyap.csproj.GenerateResource.cache
+C:\Users\Api\source\repos\Toogood_Test_Kashyap\Toogood_Test_Kashyap\obj\Debug\Toogood_Test_Kashyap.csproj.CoreCompileInputs.cache
+C:\Users\Api\source\repos\Toogood_Test_Kashyap\Toogood_Test_Kashyap\obj\Debug\Toogood_Test_Kashyap.exe
+C:\Users\Api\source\repos\Toogood_Test_Kashyap\Toogood_Test_Kashyap\obj\Debug\Toogood_Test_Kashyap.pdb
